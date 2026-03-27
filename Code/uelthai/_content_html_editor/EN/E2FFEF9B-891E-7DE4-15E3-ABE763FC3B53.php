@@ -1,0 +1,1 @@
+<div class="fr-view Kanit panel-content-htmleditor"></div>
